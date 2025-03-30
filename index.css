@@ -1,0 +1,264 @@
+.l{
+    width: 23px;
+    height: 2.5px;
+background-color: rgb(86, 86, 86);
+margin-bottom: 3px;
+
+}
+
+.mam11{
+    
+    display: flex;
+    
+}
+
+.cc{
+    width: 33px;
+    height: 33px;
+    border-radius: 50%;
+
+}
+
+.yout{
+
+    width: 120px;
+    height: 42px;
+    border-radius: 22%;
+    
+}
+
+.treeligne{
+    margin-top: 13px;
+    margin-left: 14px;
+}
+
+.mam11{
+   
+    gap: 10px;
+}
+
+.l1{
+    width: 300px;
+    height: 5px;
+    background-color: rgb(33, 32, 32);
+    margin-bottom: 3px;
+    
+}
+
+
+.yo{
+    width: 0px;
+    height: 0px;
+    border-radius: 50%;
+    background-color: rgb(33, 32, 32);
+
+}
+
+
+.l2{
+    width: 150px;
+    height: 5px;
+    background-color: rgb(33, 32, 32);
+    margin-bottom: 3px;
+    
+}
+
+.l3{
+    width: 500px;
+    height: 20px;
+    background-color: rgb(33, 32, 32);
+    margin-top: 6px;
+    
+    
+}
+
+
+.mam22{
+    display: flex;
+    margin-top: 10px;
+    gap: 10px;
+   
+}
+.ma2{
+    margin-top: 3px;
+
+}
+
+
+body{
+    background-color: rgb(15, 15, 15);
+}
+
+.c{
+    width: 33px;
+    height: 33px;
+    border-radius: 50%;
+    background-color: rgb(33, 32, 32);
+    margin-right: 2px;
+}
+.big1{
+    display: flex;
+    justify-content: space-between;
+  
+}
+
+
+
+.mam12{
+    display: flex;
+}
+
+.car1{
+
+    width: 415.19px;
+    height: 233.54px;
+    border-radius: 4%;
+    
+    background-color: rgb(33, 32, 32);
+}
+
+.real{
+    width: 415.19px;
+    height: 233.54px;
+    border-radius: 4%;
+    
+}
+
+.brc{
+    width: 415.19px;
+    height: 233.54px;
+    border-radius: 4%;
+}
+
+.messi{
+    width: 415.19px;
+    height: 233.54px;
+    border-radius: 4%;
+}
+
+.balada{
+    width: 415.19px;
+    height: 233.54px;
+    border-radius: 4%;
+
+}
+
+.moadnan{
+    width: 415.19px;
+    height: 233.54px;
+    border-radius: 4%;
+
+}
+
+
+.pause{
+    width: 415.19px;
+    height: 233.54px;
+    border-radius: 4%;
+
+}
+
+.car2{
+
+    width: 415.19px;
+    height: 233.54px;;
+    border-radius: 4%;
+    
+    background-color: rgb(33, 32, 32);
+}
+.car3{
+
+    width: 415.19px;
+    height: 233.54px;
+    border-radius: 4%;
+    
+    background-color: rgb(33, 32, 32);
+}
+.car4{
+
+    width: 415.19px;
+    height: 233.54px;
+    border-radius: 4%;
+    
+    background-color: rgb(33, 32, 32);
+}
+.car5{
+
+    width: 415.19px;
+    height: 233.54px;
+    border-radius: 4%;
+    
+    background-color: rgb(33, 32, 32);
+}
+.car6{
+
+    width: 415.19px;
+    height: 233.54px;
+    border-radius: 4%;
+    
+    background-color: rgb(33, 32, 32);
+}
+
+.lig{
+
+    display: flex;
+    justify-content: end;
+    gap: 15px;
+    margin-bottom: 20px;
+
+}
+
+.top1{
+    margin-top: 6px;
+
+}
+
+
+.categories {
+    display: flex;
+    justify-content: end;
+    gap: 10px;
+    padding: 10px;
+}
+
+button {
+    background-color: rgb(33, 32, 32);
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 20px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+button.active {
+    background-color: white;
+    color: black;
+}
+
+
+.deuxieme{
+
+    display: flex;
+    flex-direction: row;
+}
+
+.top1 {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.sidebar {
+    margin-top: 17px;
+    width: 300px;
+    background-color: rgb(15, 15, 15);
+    padding: 10px;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+.loup{
+    color: white;
+}
